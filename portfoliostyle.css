@@ -4,11 +4,37 @@
 }
 
 .one,
-.two,
+/* .two, */
 .three,
 .four,
 .five {
     border: 2px solid #ffffff;
     margin: 30px;
     padding: 120px;
+}
+
+.footer{
+    float: bottom;
+}
+
+.portfolioLabel{
+    text-align: center;
+    height: 60px;
+    width: 240px;
+    background-color: black;
+    position: relative;
+    bottom: -150px;
+    left: 0px;
+    margin: 0;
+    padding-top: 16px;
+    padding-bottom: 8px;
+    font-size: 16pt;
+
+}
+
+.two{
+    margin: 0;
+    padding: 0;
+    border: 2px solid #ffffff;
+    margin: 30px;
 }
