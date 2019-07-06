@@ -120,7 +120,7 @@ h2{
     margin: 0;
     padding: 0;
     border-top: solid 3px #fff;
-    /* position: absolute; */
+    border-bottom: solid 3px #fff;
     left: 0;
     bottom: 0;
     width: 100%;
